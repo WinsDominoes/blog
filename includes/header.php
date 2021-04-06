@@ -28,10 +28,10 @@
             <div id="nav">
                 <h5>Web Directory</h5>
                 <nav>
-                    <a href="/blogs/">Blogs</a> |
-                    <a href="/opinions/">Opinions</a> |
-                    <a href="/programming/">Programming</a> |
-                    <a href="/about/">About</a>
+                    <a href="index.php">Blogs</a> |
+                    <a href="opinions.php">Opinions</a> |
+                    <a href="programming.php">Programming</a> |
+                    <a href="about.php">About</a>
                 </nav>
             </div>
         </div>
